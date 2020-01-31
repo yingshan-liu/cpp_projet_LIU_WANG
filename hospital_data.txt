@@ -1,0 +1,5 @@
+Mary 24 17 7 0 F G
+Bob  38 30 3 5 H G
+Helen 68 40 10 18 H T
+Jason 22 22 0 0 H R
+
